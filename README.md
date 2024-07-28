@@ -27,12 +27,12 @@ Authentication: JWT (JSON Web Tokens)
 **Installation**
 
 1.Clone the repository
-
+```sh
 git clone https://github.com/yourusername/employee-management-system.git
 cd employee-management-system
 
 2.Install dependencies for the frontend
-
+```sh
 cd ../frontend
 npm install
 
