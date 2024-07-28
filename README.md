@@ -26,10 +26,15 @@ Authentication: JWT (JSON Web Tokens)
 
 **Installation**
 
-Clone the repository
+1.Clone the repository
 
 git clone https://github.com/yourusername/employee-management-system.git
 cd employee-management-system
+
+2.Install dependencies for the frontend
+
+cd ../frontend
+npm install
 
 ## Available Scripts
 
@@ -42,6 +47,27 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+###Usage
+Login
+
+Navigate to http://localhost:3000/login and log in with your credentials.
+Dashboard
+
+After logging in, you will be redirected to the dashboard where you can view the list of employees.
+Create Employee
+
+Click on the "Create Employee" button to add a new employee.
+Edit Employee
+
+Click the "Edit" button next to an employee's record to update their information.
+Delete Employee
+
+Click the "Delete" button next to an employee's record to remove them from the list.
+Search Employees
+
+Use the search bar to filter employees by name or email.
 
 ### `npm test`
 
