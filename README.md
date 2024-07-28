@@ -50,21 +50,27 @@ You may also see any lint errors in the console.
 
 
 ****Usage**
+
 **Login**
 
 Navigate to http://localhost:3000/login and log in with your credentials.
+
 **Dashboard**
 
 After logging in, you will be redirected to the dashboard where you can view the list of employees.
+
 **Create Employee**
 
 Click on the "Create Employee" button to add a new employee.
+
 **Edit Employee**
 
 Click the "Edit" button next to an employee's record to update their information.
+
 **Delete Employee**
 
 Click the "Delete" button next to an employee's record to remove them from the list.
+
 **Search Employees**
 
 Use the search bar to filter employees by name or email.
