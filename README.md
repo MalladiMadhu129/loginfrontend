@@ -3,13 +3,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-**#Employee Management System**
+**Employee Management System**
 
-**#Overview**
+**Overview**
 
 The Employee Management System is a web application designed to manage employee information within an organization. It allows administrators to create, view, edit, and delete employee records. The application is built using React for the frontend and Node.js for the backend, with Axios for API requests.
 
-**#Features**
+**Features**
 
 User Authentication: Secure login and logout functionality.
 Employee Management: Create, read, update, and delete employee records.
@@ -17,12 +17,20 @@ Search Functionality: Filter employees by name or email.
 Image Upload: Upload and display employee profile pictures.
 Responsive Design: Mobile-friendly interface using Tailwind CSS.
 
-**#Technology Stack**
+**Technology Stack**
 
 Frontend: React, Tailwind CSS, Axios, React Router
 Backend: Node.js, Express
 Database: MongoDB (or any other database used)
 Authentication: JWT (JSON Web Tokens)
+
+**Installation**
+
+Clone the repository
+
+git clone https://github.com/yourusername/employee-management-system.git
+cd employee-management-system
+
 ## Available Scripts
 
 In the project directory, you can run:
